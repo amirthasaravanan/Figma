@@ -8,7 +8,7 @@ To design, develop and deploy a web application for event registration.
 Create a new frame.
 
 ## Step 2:
-Select any one preset size of your choice.
+Select any one preset size of your choice. 
 
 ## Step 3:
 Select the shapes you need.
